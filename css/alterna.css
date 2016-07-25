@@ -1,0 +1,120 @@
+body {
+	background: #FFFFFF;
+	color: #000;
+	margin: 0px 0px 0px 0px; /*top right down left*/
+}
+
+#header {
+	background: #000000;
+	background-image: url("../images/background.png");
+	background-position:center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% auto;
+	margin: 0px auto 0px auto; /*top right down left*/
+	padding: 50px 0px 50px 0px; /*top right down left*/
+	text-align: center;
+}
+
+#wrapper {
+	background: #FFF;
+	/*background-color: rgba(0, 0, 0, 1.0);*/
+	margin: 0px auto 0px auto; /*top right down left*/
+	padding: 10px 0px 10px 0px; /*top right down left*/
+}
+
+#content {
+	/*background: #212121;*/
+	background-color: rgba(33, 33, 33, 0.0);
+	background-image: url("../images/magiccirclesbg.png");
+	background-position: top left;
+	background-repeat: no-repeat;
+	border: 0px solid #000000;
+	border-left: 1px solid #454545;
+	border-right: 1px solid #454545;
+	color: 000;
+	font-family: Verdana, Sans-Serif, Lucida Sans Unicode, Lucida Console;
+	font-size: 14px; /* Font size by defaut */
+	/*text-align: justify;*/
+	line-height: 180%;
+	word-wrap:break-word; /* Long word won't go out of the div box*/
+	margin: 0px auto 0px auto; /*top right down left*/
+	padding: 10px 10px 10px 10px; /*top right down left*/
+	width: 960px;
+}
+
+
+
+footer {	
+	background: #212121;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: Consolas, Lucida Console, Verdana, Arial, Sans-Serif;
+	margin: 0px auto 0px auto; /*top right down left*/
+	padding: 4px 0;
+	text-align: center;
+}
+
+
+
+
+/* CSS for the Nav Bar */
+
+nav {
+	background:#212121;
+	border-bottom: solid 4px #2266dd;
+	border-top: solid 4px #2266dd;
+	font-family: Consolas, Arial, sans-serif;
+	font-size: 20px;
+	margin:0 auto;
+	text-align: center; /* Have to add to centered the navbar */
+}
+
+nav a:link, nav a:visited, nav a:active {
+	text-decoration: none;
+	color: #F4F4F4;
+}
+
+nav a:hover {
+	background:#40484F;
+	border-bottom: 4px solid #FFFFFF;
+	padding-bottom: 10px;
+	color:#FFFFFF;
+	text-shadow: 0 0 4px #0080ff;
+	/*transition: .1s;*/
+}
+
+nav ul {
+	display: inline-block; /* Have to add to centered the navbar */
+	list-style: none; /*Remove Dot*/
+	margin:0;
+	padding:0;
+}
+
+nav ul li {
+	display: inline-block; /*Make bar horizontal*/
+	/*margin-right: -4px; /*Remove space of inline-block when nav in html form*/
+	position: relative;
+}
+
+nav ul li:first-child{
+	border-left: 1px solid #000000; /*Separator Size*/
+}
+
+nav ul li a {
+	border-right: 1px solid; /*Separator Size*/
+	content: "";
+	display: block;
+	padding: 14px 40px 14px 40px; /*(top right down left) "border and height" of button*/
+	text-align: center;
+	text-decoration: none;
+	/*width: 100px;*/
+}
+nav ul li a:before {
+	border-right: 1px solid #000000; /*Separator Size and Color*/
+    content: ""; /*To remove diagonal intersect -_-*/
+    position:absolute;
+	right: 0;
+    top: 0px; /* Should equal top border of nav ul li a */
+    bottom: 0px; /* Should equal bottom border of nav ul li a */
+}

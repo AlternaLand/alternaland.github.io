@@ -2,6 +2,36 @@ body {
 	font-family: 'Raleway', sans-serif !important;
 }
 
+img {
+	border: 0;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+
+header {
+	background-color: #456;
+	background-image: url("../img/background.png");
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	/* Font size defaut */
+	font-size: 1.0em;
+	padding: 50px 0;
+}
+
+header h4 {
+	color: #FFF;
+}
+
+header .front {
+	text-align: center;
+}
+
+
+/* Footer */
+
 footer {
 	text-align: center;
 }
@@ -19,20 +49,16 @@ footer h3 {
 	color: #09F;
 }
 
-footer .details {
+footer .footer-above {
 	background-color: #000;
 	color: #FFF;
 	margin-top: 50px;
-	padding: 30px 10px 50px 10px;
+	padding: 30px 0 50px 0;
 }
 
-footer #footer-icons {
-	color: #FFF;
-	font-size: 2.4em;
-}
-
-footer #footer-icons:hover {
-	color: #09f;
+footer .footer-icons {
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 footer .footer-below {

@@ -59,7 +59,6 @@ header .front {
 
 .navbar {
 	border: 0;
-	border-bottom: 1px solid #FFF;
 	background-color: #111;
 	border-radius: 0px;
 }
@@ -107,20 +106,8 @@ header .front {
 
 .navbar div ul li .dropdown-menu {
 	background-color: #222;
-	border-top: 2px solid #09f;
+	border-top: 2px solid #06C;
 }
-
-/* Nav Affix */
-nav.affix {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index:10;
-}
-.affix + .container {
-	padding-top: 90px;
-}
-
 
 /* FOOTER */
 

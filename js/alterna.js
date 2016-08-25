@@ -61,9 +61,10 @@ function footer() {
 				<div class="row">\
 					<div class="footer-col col-md-3 col-sm-6">\
 						<h3>Alterna Land</h3>\
-						<a href="#/">Official Main Site</a><br>\
-						<a href="#/">Official Forum</a><br>\
-						<a href="#/">Support</a><br>\
+						<a href="index.html">Main Site</a><br>\
+						<a href="story.html">Story</a><br>\
+						<a href="characters.html">Characters</a><br>\
+						<a href="gallery.html">Gallery</a><br>\
 					</div>\
 					<div class="footer-col col-md-3 col-sm-6">\
 						<h3>Community</h3>\
@@ -72,10 +73,9 @@ function footer() {
 					</div>\
 					<div class="footer-col col-md-3 col-sm-6">\
 						<h3>Links</h3>\
-						<a href="#/">Link #1</a><br>\
-						<a href="#/">Link #2</a><br>\
-						<a href="#/">Link #3</a><br>\
-						<a href="#/">Link #4</a><br>\
+						<a href="about.html">About</a><br>\
+						<a href="contact.html">Contact</a><br>\
+						<a href="other.html">Other</a><br>\
 					</div>\
 					<div class="footer-col col-md-3 col-sm-6">\
 						<h3>Follow Us</h3>\
@@ -90,7 +90,7 @@ function footer() {
             <div class="container">\
                 <div class="row">\
                     <div class="col-lg-12">\
-						<div id="copyright">Copyright &copy; Alterna 2014 -' + year + '. Design by Lord Rixuel.</div>\
+						<div id="copyright">Copyright &copy; Alterna 2014 - ' + year + '. Design by Lord Rixuel.</div>\
                     </div>\
                 </div>\
             </div>\

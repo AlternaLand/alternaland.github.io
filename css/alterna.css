@@ -55,6 +55,12 @@ header {
 	/* Font size defaut */
 	font-size: 1.0em;
 	padding: 50px 0;
+	
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none
 }
 
 header h4 {

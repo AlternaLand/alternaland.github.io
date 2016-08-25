@@ -25,12 +25,21 @@ h2 {
 }
 
 .barwrap {
-	background-color: #EEF;
+	background-color: #FFF;
 	margin-top: 40px;
-	margin-bottom: 20px;
-	padding-bottom: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 30px;
+	padding-bottom: 50px;
 }
 
+.barwrapblue {
+	background-color: #EEF;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
 
 /* HEADER */
 
@@ -126,7 +135,6 @@ footer h3 {
 footer .footer-above {
 	background-color: #111;
 	color: #FFF;
-	margin-top: 50px;
 	padding: 30px 0 50px 0;
 }
 

@@ -25,22 +25,22 @@ function menu() {
 					<span class="icon-bar"></span>\
 					<span class="icon-bar"></span>\
 				</button>\
-				<a class="navbar-brand" href="#">\
+				<a class="navbar-brand" href="index.html">\
 					<i class="fa fa-adjust" aria-hidden="true"></i>\
 					Alterna\
 				</a>\
 			</div>\
 			<div class="collapse navbar-collapse" id="myNavbar">\
 				<ul class="nav navbar-nav navbar-left">\
-					<li><a href="#">Storyline</a></li>\
-					<li><a href="#">Characters</a></li>\
-					<li><a href="#">Gallery</a></li>\
+					<li><a href="story.html">Story</a></li>\
+					<li><a href="characters.html">Characters</a></li>\
+					<li><a href="gallery.html">Gallery</a></li>\
 					<li class="dropdown">\
 						<a class="dropdown-toggle" data-toggle="dropdown" href="#">Misc<span class="caret"></span></a>\
 						<ul class="dropdown-menu">\
-							<li><a href="#">About</a></li>\
-							<li><a href="#">Contact</a></li>\
-							<li><a href="#">Other</a></li>\
+							<li><a href="about.html">About</a></li>\
+							<li><a href="contact.html">Contact</a></li>\
+							<li><a href="other.html">Other</a></li>\
 						</ul>\
 					</li>\
 				</ul>\
@@ -60,16 +60,15 @@ function footer() {
 			<div class="container">\
 				<div class="row">\
 					<div class="footer-col col-md-3 col-sm-6">\
-						<h3>Community</h3>\
-						<a href="#/">Chat</a><br>\
-						<a href="#/">Gallery</a><br>\
-						<a href="#/">Wikia</a><br>\
-					</div>\
-					<div class="footer-col col-md-3 col-sm-6">\
 						<h3>Alterna Land</h3>\
 						<a href="#/">Official Main Site</a><br>\
 						<a href="#/">Official Forum</a><br>\
 						<a href="#/">Support</a><br>\
+					</div>\
+					<div class="footer-col col-md-3 col-sm-6">\
+						<h3>Community</h3>\
+						<a href="#/">Chat</a><br>\
+						<a href="#/">Wikia</a><br>\
 					</div>\
 					<div class="footer-col col-md-3 col-sm-6">\
 						<h3>Links</h3>\

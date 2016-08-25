@@ -44,12 +44,14 @@ h2 {
 /* HEADER */
 
 header {
-	background-color: #456;
-	background-image: url("../img/background.png");
-	background-position: center top;
-	background-repeat: no-repeat;
+	background-color: #FFF;
+	background-image: url("../img/magiccirclesbg.png"), 
+		url("../img/backflow.png"), 
+		url("../img/background.png");
+	background-position: left top, right top, center top;
+	background-repeat: no-repeat, no-repeat, repeat;
 	background-attachment: fixed;
-	background-size: 100% 100%;
+	background-size: auto, auto, 100% auto;
 	/* Font size defaut */
 	font-size: 1.0em;
 	padding: 50px 0;

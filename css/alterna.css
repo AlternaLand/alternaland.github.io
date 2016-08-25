@@ -87,18 +87,13 @@ header .front {
 }
 
 .navbar-brand {
-	color: #0F9 !important;
-	background-color: #04A;
+	color: #0CF !important;
 }
 
 .navbar-brand:hover,
 .navbar-nav li a:hover {
 	background-color: #04A !important;
 	color: #0f9 !important;
-}
-
-.active > a {
-	background-color: #09f !important;
 }
 
 .dropdown-menu > li > a {

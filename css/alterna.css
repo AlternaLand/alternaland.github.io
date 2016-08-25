@@ -64,20 +64,19 @@ header .front {
 .navbar-brand:hover,
 .navbar-nav li a:hover {
 	background-color: #09f !important;
-	color: #f90 !important;
+	color: #9f0 !important;
 }
-
-.active > a{
+.active > a {
 	background-color: #09f !important;
 }
 
+.navbar-nav .open .dropdown-toggle {
+    background-color: #222 !important;
+}
 
 .navbar div ul li .dropdown-menu {
 	background-color: #222;
 	border-top: 2px solid #09f;
-}
-.navbar div ul li .dropdown-menu li a {
-	color: #FFF;
 }
 
 

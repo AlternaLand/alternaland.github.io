@@ -45,12 +45,12 @@ h2 {
 
 header {
 	background-color: #000;
-	background-image: url("../img/magiccirclesbg.png"), 
+	background-image: url("../img/bgwarriorgirl.png"), 
 		url("../img/backflow.png"), 
 		url("../img/background.png");
 	background-position: left top, right top, center top;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-attachment: scroll, scroll, fixed;
 	background-size: auto, auto, 100% auto;
 	/* Font size defaut */
 	font-size: 1.0em;

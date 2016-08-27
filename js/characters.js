@@ -72,7 +72,7 @@ function finisherMale() {
 function karmaDilenna() {
     var dataTarget = "karmaDilenna";
     var name = "Karma Dilenna";
-    var img = "https://orig06.deviantart.net/68b1/f/2016/089/a/4/oc_karma_dilenna_version_3_by_guardianpat-d5qvpcz.png";
+    var img = "https://orig04.deviantart.net/9fb2/f/2016/240/6/7/oc_karma_dilenna_v2_by_guardianpat-d4jo2sj.png";
     var info = 
         'Status: Alive<br>\
         Race: Human<br>\

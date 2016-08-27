@@ -52,7 +52,7 @@ function test() {
 function finisherMale() {
     var dataTarget = "finisherMale";
     var name = "Finisher (male)";
-    var img = "http://orig06.deviantart.net/a125/f/2013/122/3/0/finisherv2_by_guardianpat-d63v7vz.png";
+    var img = "https://orig06.deviantart.net/a125/f/2013/122/3/0/finisherv2_by_guardianpat-d63v7vz.png";
     var info = 
         'Status: Alive<br>\
         Race: Human<br>\
@@ -72,7 +72,7 @@ function finisherMale() {
 function karmaDilenna() {
     var dataTarget = "karmaDilenna";
     var name = "Karma Dilenna";
-    var img = "http://orig06.deviantart.net/68b1/f/2016/089/a/4/oc_karma_dilenna_version_3_by_guardianpat-d5qvpcz.png";
+    var img = "https://orig06.deviantart.net/68b1/f/2016/089/a/4/oc_karma_dilenna_version_3_by_guardianpat-d5qvpcz.png";
     var info = 
         'Status: Alive<br>\
         Race: Human<br>\
@@ -92,7 +92,7 @@ function karmaDilenna() {
 function maximValor() {
     var dataTarget = "maximValor";
     var name = "Maxim Valor";
-    var img = "http://orig11.deviantart.net/413c/f/2011/333/6/2/622f838a219887f8e8fd272dbbe4ff50-d4hpx2s.png";
+    var img = "https://orig11.deviantart.net/413c/f/2011/333/6/2/622f838a219887f8e8fd272dbbe4ff50-d4hpx2s.png";
     var info = 
         'Status: Alive<br>\
         Race: Human<br>\
@@ -113,7 +113,7 @@ function maximValor() {
 function elleValery() {
     var dataTarget = "elleValery";
     var name = "Elle Valery";
-    var img = "http://orig08.deviantart.net/3252/f/2016/238/f/6/ellevalery_by_guardianpat-daff2v6.png";
+    var img = "https://orig08.deviantart.net/3252/f/2016/238/f/6/ellevalery_by_guardianpat-daff2v6.png";
     var info = 
         'Status: Alive<br>\
         Race: Human<br>\
@@ -132,7 +132,7 @@ function elleValery() {
 function emilyChristina() {
     var dataTarget = "emilyChristina";
     var name = "Emily Christina";
-    var img = "http://orig03.deviantart.net/2b87/f/2010/191/1/d/1d0bf8e4ade1451593a57cd60429ac74.png";
+    var img = "https://orig03.deviantart.net/2b87/f/2010/191/1/d/1d0bf8e4ade1451593a57cd60429ac74.png";
     var info = 
         'Status: Alive<br>\
         Race: Human<br>\
@@ -152,7 +152,7 @@ function emilyChristina() {
 function zeria() {
     var dataTarget = "zeria";
     var name = "Zeria";
-    var img = "http://orig06.deviantart.net/736a/f/2016/122/c/a/zeriacolor_by_guardianpat-da12tu2.png";
+    var img = "https://orig06.deviantart.net/736a/f/2016/122/c/a/zeriacolor_by_guardianpat-da12tu2.png";
     var info = 
         'Status: Alive<br>\
         Race: Human<br>\

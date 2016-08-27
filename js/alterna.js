@@ -80,7 +80,6 @@ function footer() {
 					<div class="footer-col col-md-3 col-sm-6">\
 						<h3>Follow Us</h3>\
 						<a href="http://alternaland.deviantart.com"><span class="fa fa-deviantart fa-2x footer-icons"></span></a>\
-						<a href="#/"><span class="fa fa-facebook fa-2x footer-icons"></span></a>\
 						<a href="http://www.twitter.com/Rixuel"><span class="fa fa-twitter fa-2x footer-icons"></span></a>\
 					</div>\
 				</div>\

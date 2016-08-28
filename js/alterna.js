@@ -32,7 +32,7 @@ function menu() {
 			</div>\
 			<div class="collapse navbar-collapse" id="myNavbar">\
 				<ul class="nav navbar-nav navbar-left">\
-					<li><a href="https://alternaland.proboards.com">Forum</a></li>\
+					<li><a href="http://alternaland.proboards.com">Forum</a></li>\
 					<li><a href="story.html">Story</a></li>\
 					<li><a href="characters.html">Characters</a></li>\
 					<li><a href="gallery.html">Gallery</a></li>\
@@ -69,7 +69,7 @@ function footer() {
 					</div>\
 					<div class="footer-col col-md-3 col-sm-6">\
 						<h3>Community</h3>\
-						<a href="https://alternaland.proboards.com">Forum</a><br>\
+						<a href="http://alternaland.proboards.com">Forum</a><br>\
 						<a href="#/">Chat</a><br>\
 						<a href="#/">Wikia</a><br>\
 					</div>\

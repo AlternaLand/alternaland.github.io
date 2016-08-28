@@ -132,7 +132,7 @@ function elleValery() {
 function emilyChristina() {
     var dataTarget = "emilyChristina";
     var name = "Emily Christina";
-    var img = "https://orig03.deviantart.net/2b87/f/2010/191/1/d/1d0bf8e4ade1451593a57cd60429ac74.png";
+    var img = "https://orig03.deviantart.net/c089/f/2016/240/7/9/emily_christina_no_color_by_guardianpat-d2skd0k.png";
     var info = 
         'Status: Alive<br>\
         Race: Human<br>\

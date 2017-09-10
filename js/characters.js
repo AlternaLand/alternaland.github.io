@@ -120,7 +120,7 @@ function elleValery() {
         Age: 25<br>\
         Gender: Female<br>\
         Height: 168 cm<br>\
-        AKA: <br>';
+        AKA: Eli Valkyrie<br>';
     var occupation =
         'Adventurer<br>\
         <br>';
@@ -132,7 +132,7 @@ function elleValery() {
 function emilyChristina() {
     var dataTarget = "emilyChristina";
     var name = "Emily Christina";
-    var img = "https://orig03.deviantart.net/c089/f/2016/240/7/9/emily_christina_no_color_by_guardianpat-d2skd0k.png";
+    var img = "https://orig01.deviantart.net/3247/f/2017/250/8/8/emily_christina_by_guardianpat-dbmmx9m.png";
     var info =
         'Status: Alive<br>\
         Race: Human<br>\

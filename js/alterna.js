@@ -43,6 +43,7 @@ function menu() {
 							<li><a href="other.html">Other</a></li>\
 						</ul>\
 					</li>\
+					<li><a href="https://discord.gg/qhCsvqT"><b>Discord</b></a></li>\
 				</ul>\
 			</div>\
 		</div>\

@@ -5,7 +5,7 @@ function header() {
             <div class="container">\
                 <div class="row">\
                     <div class="col-lg-12">\
-						<img src="img/alternalogo.png">\
+						<img class="logo">\
                     </div>\
                 </div>\
             </div>\
@@ -48,14 +48,14 @@ function menu() {
 			</div>\
 		</div>\
 	</nav>';
-	
+
 	document.getElementById("menu").innerHTML = menu;
 }
 
 function footer() {
 	var date = new Date();
 	var year = date.getFullYear();
-	var footer = 
+	var footer =
 	'<footer>\
 		<div class="footer-above">\
 			<div class="container">\
@@ -97,6 +97,6 @@ function footer() {
             </div>\
         </div>\
 	</footer>';
-	
+
 	document.getElementById("footer").innerHTML = footer;
 }

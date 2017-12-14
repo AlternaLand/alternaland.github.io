@@ -72,14 +72,12 @@ header .front {
 }
 
 .logo {
-	display: block;
+	border-style: none;
 	background-image: url("../img/alternalogo.png");
-	background-size: 100% auto;
+	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
-	margin-left: auto;
-	margin-right: auto;
-	width: 580px;
+	width: 100%;
 	height: 205px;
 }
 

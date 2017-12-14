@@ -5,7 +5,7 @@ function header() {
             <div class="container">\
                 <div class="row">\
                     <div class="col-lg-12">\
-						<img class="logo">\
+						<div class="logo">\
                     </div>\
                 </div>\
             </div>\

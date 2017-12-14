@@ -60,26 +60,27 @@ function footer() {
 		<div class="footer-above">\
 			<div class="container">\
 				<div class="row">\
-					<div class="footer-col col-md-3">\
+					<div class="footer-col col-md-3 col-sm-6">\
 						<h3>Alterna Land</h3>\
 						<a href="index.html">Main Site</a><br>\
 						<a href="story.html">Story</a><br>\
 						<a href="characters.html">Characters</a><br>\
 						<a href="gallery.html">Gallery</a><br>\
 					</div>\
-					<div class="footer-col col-md-3">\
+					<div class="footer-col col-md-3 col-sm-6">\
 						<h3>Community</h3>\
 						<a href="http://alternaland.proboards.com">Forum</a><br>\
 						<a href="https://discord.gg/qhCsvqT">Chat</a><br>\
 						<a href="#/">Wikia</a><br>\
 					</div>\
-					<div class="footer-col col-md-3">\
+					<div class="clearfix visible-sm-block"></div>\
+					<div class="footer-col col-md-3 col-sm-6">\
 						<h3>Links</h3>\
 						<a href="about.html">About</a><br>\
 						<a href="contact.html">Contact</a><br>\
 						<a href="other.html">Other</a><br>\
 					</div>\
-					<div class="footer-col col-md-3">\
+					<div class="footer-col col-md-3 col-sm-6">\
 						<h3>Follow Us</h3>\
 						<a href="http://alternaland.deviantart.com"><span class="fa fa-deviantart fa-2x footer-icons"></span></a>\
 						<a href="http://www.twitter.com/Rixuel"><span class="fa fa-twitter fa-2x footer-icons"></span></a>\

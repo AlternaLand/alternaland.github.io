@@ -8,7 +8,7 @@ function charModal(id,name,img,info,occ,desc) {
 					<h4 class="modal-title" id="myModalLabel">'+name+'</h4>\
 				</div>\
 				<div class="modal-body">\
-					<img src="'+img+'">\
+					<center><img src="'+img+'"></center>\
 					<div class="row">\
 						<div class="col-md-6">\
 							<h3>Info</h3>\
@@ -146,6 +146,25 @@ function emilyChristina() {
     var desc =
         'A little bit different than her best friend Elle Valery,\
         sometime, she likes to annoy some people just for the fun.';
+    charModal(dataTarget, name, img, info, occupation, desc);
+}
+
+function lineva() {
+    var dataTarget = "lineva";
+    var name = "Lineva";
+    var img = "img/lineva.jpg";
+    var info =
+        'Status: Alive<br>\
+        Race: <br>Mixed (1/2 Human 1/4 Dragon 1/4 Elf)<br>\
+        Age: 21<br>\
+        Gender: Female<br>\
+        Height: 175 cm<br>\
+        AKA: <br>';
+    var occupation =
+        'Hunter<br>\
+        <br>';
+    var desc =
+        'Dangerous mind reader.';
     charModal(dataTarget, name, img, info, occupation, desc);
 }
 
